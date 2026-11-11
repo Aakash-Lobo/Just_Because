@@ -21,6 +21,7 @@
 	 transition: transform 1s ease;
 	 font-family: "Allan", sans-serif;
 	 color: #1f1f1f;
+	 overflow: hidden;
 }
  .envelope .front, .envelope .back {
 	 position: absolute;
