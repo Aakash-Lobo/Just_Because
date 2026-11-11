@@ -24,15 +24,7 @@
     overflow: hidden;
 }
 
-/* Override the global SVG styles */
-.envelope svg {
-    width: 100%;
-    height: 100%;
-    display: block;
-    object-fit: contain;
-    preserveAspectRatio: xMidYMid meet;
-    opacity: 0.9;
-}
+
  .envelope .front, .envelope .back {
 	 position: absolute;
 	 width: 100%;
